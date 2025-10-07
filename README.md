@@ -1,0 +1,1 @@
+# Player-de-Stems-com-IA-Integrada
