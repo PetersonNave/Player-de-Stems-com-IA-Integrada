@@ -60,8 +60,8 @@ Para executar este projeto em sua máquina, é essencial ter o seguinte ambiente
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/PetersonNave/Player-de-Stems-com-IA-Integrada.git](https://github.com/PetersonNave/Player-de-Stems-com-IA-Integrada.git)
-    cd seu-repositorio
+    git clone https://github.com/PetersonNave/Player-de-Stems-com-IA-Integrada.git
+    cd Player-de-Stems-com-IA-Integrada
     ```
 
 2.  **Compile o código-fonte:**
